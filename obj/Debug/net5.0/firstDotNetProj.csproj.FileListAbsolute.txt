@@ -1,0 +1,16 @@
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.exe
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.deps.json
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.runtimeconfig.json
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.runtimeconfig.dev.json
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.dll
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\ref\firstDotNetProj.dll
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\bin\Debug\net5.0\firstDotNetProj.pdb
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.csprojAssemblyReference.cache
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.AssemblyInfoInputs.cache
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.AssemblyInfo.cs
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.csproj.CoreCompileInputs.cache
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.dll
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\ref\firstDotNetProj.dll
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.pdb
+D:\Documents\dotNET\Dio Projects\firstDotNetProj\obj\Debug\net5.0\firstDotNetProj.genruntimeconfig.cache
