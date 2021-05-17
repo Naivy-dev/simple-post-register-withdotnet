@@ -55,7 +55,7 @@ namespace firstDotNetProj
             Console.WriteLine("Choose one of the above or insert C to cancel");
             string GetGenreOption = Console.ReadLine();
             int[] insGenre = { 0, 0, 0, 0, 0, 0 };
-            while (GetGenreOption.ToUpper() != "C" && ind < 6)//mostra as opcoes
+            while (GetGenreOption.ToUpper() != "C" && ind < 6)
             {
                 insGenre[ind] = int.Parse(GetGenreOption);
                 if (ind < 5)
@@ -67,7 +67,7 @@ namespace firstDotNetProj
                 ind++;
             }
             DateTime createdAt = DateTime.Now;
-            //cria o objeto igualando as variaveis de cima pros parametros do objeto
+
             Post newPost = new Post(id: repository.nextId(),
                                     title: insTitle,
                                     description: insDesc,
@@ -142,7 +142,6 @@ namespace firstDotNetProj
                 ind++;
             }
             DateTime createdAt = DateTime.Now;
-            //cria o objeto igualando as variaveis de cima pros parametros do objeto
             Post updatedPost = new Post(id: postId,
                                     title: insTitle,
                                     description: insDesc,
